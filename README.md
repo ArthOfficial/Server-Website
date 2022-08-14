@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ArthOfficial
-- 👀 I’m interested in Web Design
-- 🌱 I’m currently Python , html and css
-- ![CuteDinoDinosallyGIF](https://user-images.githubusercontent.com/107664148/184529791-fb3d8610-86c8-4da6-8414-8da65098e04a.gif)
+
